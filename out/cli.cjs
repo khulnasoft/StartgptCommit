@@ -16594,7 +16594,7 @@ var package_default = {
   ],
   main: "cli.js",
   bin: {
-    "startgptcommit": "./out/cli.cjs",
+    startgptcommit: "./out/cli.cjs",
     oco: "./out/cli.cjs"
   },
   repository: {
@@ -16645,6 +16645,7 @@ var package_default = {
     "@actions/github": "^5.1.1",
     "@clack/prompts": "^0.6.1",
     "@dqbd/tiktoken": "^1.0.2",
+    "@eslint/eslintrc": "^3.0.0",
     "@octokit/webhooks-schemas": "^6.11.0",
     "@octokit/webhooks-types": "^6.11.0",
     axios: "^1.3.4",
